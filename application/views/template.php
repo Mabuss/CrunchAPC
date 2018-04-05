@@ -21,7 +21,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="#">Crunch a PC</a>
+					<a class="navbar-brand" href="/">Crunch a PC</a>
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse">
@@ -30,7 +30,7 @@
 							<a href="/">Home</a>
 						</li>
 						<li>
-							<a href="">Catalog</a>
+							<a href="/catalog">Catalog</a>
 						</li>
 					</ul>
 				</div><!-- /.navbar-collapse -->
@@ -40,4 +40,6 @@
 			{content}
 		</div>
 	</body>
+	<script src="/assets/js/jquery-3.3.1.min.js"></script>
+	<script src="/assets/js/homePageHelper.js"></script>
 </html>
